@@ -1,0 +1,6 @@
+rx
+beautifulsoup4
+Theano
+pybind11
+mako
+pyopencl
